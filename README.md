@@ -27,6 +27,6 @@ dotnet watch -- run serve
 ```
 
 ### Files of interest
-https://github.com/senkawa/livinglab-mod3-wip/blob/master/Models/Blog.cs
-https://github.com/senkawa/livinglab-mod3-wip/blob/master/Models/Post.cs
-https://github.com/senkawa/livinglab-mod3-wip/blob/master/Commands/ServeCommand.cs#L42-L51
+- https://github.com/senkawa/livinglab-mod3-wip/blob/master/Models/Blog.cs
+- https://github.com/senkawa/livinglab-mod3-wip/blob/master/Models/Post.cs
+- https://github.com/senkawa/livinglab-mod3-wip/blob/master/Commands/ServeCommand.cs#L42-L51
